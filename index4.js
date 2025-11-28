@@ -9,4 +9,4 @@ const shell = user.shell;
 console.log(`Hello ${username}, hii wlcm`);
 console.log(`Username: ${username}`);
 console.log(`Home Directory: ${homeDir}`);
-console.log(`Shell: ${shell}`);
+// console.log(`Shell: ${shell}`);
